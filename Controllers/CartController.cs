@@ -88,16 +88,16 @@ namespace EcommerceMVC.Controllers
 
                 var hoaDon = new HoaDon
                 {
-                    MaKh = customerID,
-                    HoTen = model.HoTen ?? khachHang.HoTen,
-                    DiaChi = model.DiaChi ?? khachHang.DiaChi,
-                    DienThoai = model.DienThoai ?? khachHang.DienThoai,
-                    NgayDat = DateTime.Now,
-                    CachThanhToan = "COD",
-                    CachVanChuyen = "Giao hàng tận nơi",
-                    MaTrangThai = 0,
-                    GhiChu = model.GhiChu,
-                };
+					MaKh = customerID,
+					HoTen = model.HoTen ?? khachHang.HoTen,
+					DiaChi = model.DiaChi ?? khachHang.DiaChi,
+					DienThoai = model.DienThoai ?? khachHang.DienThoai,
+					NgayDat = DateTime.Now,
+					CachThanhToan = "COD",
+					CachVanChuyen = "GRAB",
+					MaTrangThai = 0,
+					GhiChu = model.GhiChu
+				};
 
                 db.Database.BeginTransaction();
                 try
@@ -105,10 +105,10 @@ namespace EcommerceMVC.Controllers
                     db.Database.CommitTransaction();
                     db.Add(hoaDon);
                     db.SaveChanges();
-					var cthd = new List<ChiTietHd>();
+					var cthds = new List<ChiTietHd>();
                     foreach(var item in Cart)
                     {
-                        cthd.Add(new ChiTietHd
+                        cthds.Add(new ChiTietHd
 						{
 							MaHd = hoaDon.MaHd,
 							MaHh = item.MaHh,
@@ -118,6 +118,7 @@ namespace EcommerceMVC.Controllers
 
 						});
                     }
+                    db.AddRange(cthds);
                     db.SaveChanges();
 					HttpContext.Session.Set<List<CartItem>>(MySetting.CART_KEY, new List<CartItem>());
                     return View("Success");
