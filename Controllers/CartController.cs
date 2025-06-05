@@ -8,9 +8,11 @@ namespace EcommerceMVC.Controllers
 {
     public class CartController : Controller
     {
-        private readonly Hshop2023Context db;
-        public CartController(Hshop2023Context context)
+		private readonly PaypalClient _paypalClient;
+		private readonly Hshop2023Context db;
+        public CartController(Hshop2023Context context, PaypalClient paypalClient)
         {
+            _paypalClient = paypalClient;
             db = context;
         }
         public List<CartItem> Cart => HttpContext.Session.Get<List<CartItem>>(MySetting.CART_KEY) ?? new List<CartItem>();
@@ -70,6 +72,7 @@ namespace EcommerceMVC.Controllers
             {
                 return Redirect("/");
             }
+            ViewBag.PaypalClientId = _paypalClient.ClientId;
             return View(Cart);
         }
 

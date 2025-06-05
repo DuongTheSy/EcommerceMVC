@@ -35,6 +35,13 @@ namespace EcommerceMVC
                     options.LoginPath = "/Customer/DangNhap";
                     options.AccessDeniedPath = "/AccessDenied";
                 });
+            // Đăng ký PaypalClient dạng singleton() - chỉ có 1 instance duy nhất trong toàn bộ ứng dụng
+
+            builder.Services.AddSingleton(x => new PaypalClient(
+                    builder.Configuration["PaypalOptions:AppId"],
+					builder.Configuration["PaypalOptions:AppSecret"],
+					builder.Configuration["PaypalOptions:Mode"]
+			));
 
             var app = builder.Build();
 

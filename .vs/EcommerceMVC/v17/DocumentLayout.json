@@ -3,12 +3,36 @@
   "WorkspaceRootPath": "D:\\Workspace\\CSharp\\ASP.NET Core\\EcommerceMVC\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{DFF8DCC1-50F5-4054-AC54-B99EB664C5C6}|EcommerceMVC.csproj|d:\\workspace\\csharp\\asp.net core\\ecommercemvc\\helpers\\paypalclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DFF8DCC1-50F5-4054-AC54-B99EB664C5C6}|EcommerceMVC.csproj|solutionrelative:helpers\\paypalclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{DFF8DCC1-50F5-4054-AC54-B99EB664C5C6}|EcommerceMVC.csproj|d:\\workspace\\csharp\\asp.net core\\ecommercemvc\\views\\cart\\checkout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DFF8DCC1-50F5-4054-AC54-B99EB664C5C6}|EcommerceMVC.csproj|solutionrelative:views\\cart\\checkout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DFF8DCC1-50F5-4054-AC54-B99EB664C5C6}|EcommerceMVC.csproj|d:\\workspace\\csharp\\asp.net core\\ecommercemvc\\views\\customer\\dangky.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DFF8DCC1-50F5-4054-AC54-B99EB664C5C6}|EcommerceMVC.csproj|solutionrelative:views\\customer\\dangky.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{DFF8DCC1-50F5-4054-AC54-B99EB664C5C6}|EcommerceMVC.csproj|d:\\workspace\\csharp\\asp.net core\\ecommercemvc\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{DFF8DCC1-50F5-4054-AC54-B99EB664C5C6}|EcommerceMVC.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DFF8DCC1-50F5-4054-AC54-B99EB664C5C6}|EcommerceMVC.csproj|d:\\workspace\\csharp\\asp.net core\\ecommercemvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DFF8DCC1-50F5-4054-AC54-B99EB664C5C6}|EcommerceMVC.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DFF8DCC1-50F5-4054-AC54-B99EB664C5C6}|EcommerceMVC.csproj|d:\\workspace\\csharp\\asp.net core\\ecommercemvc\\controllers\\cartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DFF8DCC1-50F5-4054-AC54-B99EB664C5C6}|EcommerceMVC.csproj|solutionrelative:controllers\\cartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DFF8DCC1-50F5-4054-AC54-B99EB664C5C6}|EcommerceMVC.csproj|d:\\workspace\\csharp\\asp.net core\\ecommercemvc\\helpers\\paypalclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DFF8DCC1-50F5-4054-AC54-B99EB664C5C6}|EcommerceMVC.csproj|solutionrelative:helpers\\paypalclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DFF8DCC1-50F5-4054-AC54-B99EB664C5C6}|EcommerceMVC.csproj|d:\\workspace\\csharp\\asp.net core\\ecommercemvc\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DFF8DCC1-50F5-4054-AC54-B99EB664C5C6}|EcommerceMVC.csproj|solutionrelative:views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DFF8DCC1-50F5-4054-AC54-B99EB664C5C6}|EcommerceMVC.csproj|d:\\workspace\\csharp\\asp.net core\\ecommercemvc\\data\\hshop2023context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DFF8DCC1-50F5-4054-AC54-B99EB664C5C6}|EcommerceMVC.csproj|solutionrelative:data\\hshop2023context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{DFF8DCC1-50F5-4054-AC54-B99EB664C5C6}|EcommerceMVC.csproj|d:\\workspace\\csharp\\asp.net core\\ecommercemvc\\views\\shared\\_layoutcustomer.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -23,24 +47,8 @@
       "RelativeMoniker": "D:0:0:{DFF8DCC1-50F5-4054-AC54-B99EB664C5C6}|EcommerceMVC.csproj|solutionrelative:views\\shared\\_copyright.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DFF8DCC1-50F5-4054-AC54-B99EB664C5C6}|EcommerceMVC.csproj|d:\\workspace\\csharp\\asp.net core\\ecommercemvc\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{DFF8DCC1-50F5-4054-AC54-B99EB664C5C6}|EcommerceMVC.csproj|solutionrelative:views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{DFF8DCC1-50F5-4054-AC54-B99EB664C5C6}|EcommerceMVC.csproj|d:\\workspace\\csharp\\asp.net core\\ecommercemvc\\controllers\\customercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{DFF8DCC1-50F5-4054-AC54-B99EB664C5C6}|EcommerceMVC.csproj|solutionrelative:controllers\\customercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DFF8DCC1-50F5-4054-AC54-B99EB664C5C6}|EcommerceMVC.csproj|d:\\workspace\\csharp\\asp.net core\\ecommercemvc\\controllers\\cartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DFF8DCC1-50F5-4054-AC54-B99EB664C5C6}|EcommerceMVC.csproj|solutionrelative:controllers\\cartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DFF8DCC1-50F5-4054-AC54-B99EB664C5C6}|EcommerceMVC.csproj|d:\\workspace\\csharp\\asp.net core\\ecommercemvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DFF8DCC1-50F5-4054-AC54-B99EB664C5C6}|EcommerceMVC.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DFF8DCC1-50F5-4054-AC54-B99EB664C5C6}|EcommerceMVC.csproj|d:\\workspace\\csharp\\asp.net core\\ecommercemvc\\views\\cart\\checkout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{DFF8DCC1-50F5-4054-AC54-B99EB664C5C6}|EcommerceMVC.csproj|solutionrelative:views\\cart\\checkout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{DFF8DCC1-50F5-4054-AC54-B99EB664C5C6}|EcommerceMVC.csproj|d:\\workspace\\csharp\\asp.net core\\ecommercemvc\\views\\shared\\_danhsachhanghoa.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -74,37 +82,59 @@
       "DocumentGroups": [
         {
           "DockedHeight": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 11,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
+              "Title": "DangKy.cshtml",
+              "DocumentMoniker": "D:\\Workspace\\CSharp\\ASP.NET Core\\EcommerceMVC\\Views\\Customer\\DangKy.cshtml",
+              "RelativeDocumentMoniker": "Views\\Customer\\DangKy.cshtml",
+              "ToolTip": "D:\\Workspace\\CSharp\\ASP.NET Core\\EcommerceMVC\\Views\\Customer\\DangKy.cshtml",
+              "RelativeToolTip": "Views\\Customer\\DangKy.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-30T20:31:58.88Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Hshop2023Context.cs",
+              "DocumentMoniker": "D:\\Workspace\\CSharp\\ASP.NET Core\\EcommerceMVC\\Data\\Hshop2023Context.cs",
+              "RelativeDocumentMoniker": "Data\\Hshop2023Context.cs",
+              "ToolTip": "D:\\Workspace\\CSharp\\ASP.NET Core\\EcommerceMVC\\Data\\Hshop2023Context.cs",
+              "RelativeToolTip": "Data\\Hshop2023Context.cs",
+              "ViewState": "AQIAADEAAAAAAAAAAAAQwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-30T19:49:44.206Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "PaypalClient.cs",
               "DocumentMoniker": "D:\\Workspace\\CSharp\\ASP.NET Core\\EcommerceMVC\\Helpers\\PaypalClient.cs",
               "RelativeDocumentMoniker": "Helpers\\PaypalClient.cs",
               "ToolTip": "D:\\Workspace\\CSharp\\ASP.NET Core\\EcommerceMVC\\Helpers\\PaypalClient.cs",
               "RelativeToolTip": "Helpers\\PaypalClient.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAABAAAA",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAgwC4AAAAYAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-30T19:31:50.245Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-30T19:31:50.245Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "appsettings.json",
               "DocumentMoniker": "D:\\Workspace\\CSharp\\ASP.NET Core\\EcommerceMVC\\appsettings.json",
               "RelativeDocumentMoniker": "appsettings.json",
               "ToolTip": "D:\\Workspace\\CSharp\\ASP.NET Core\\EcommerceMVC\\appsettings.json",
               "RelativeToolTip": "appsettings.json",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAwAAABiAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-05-30T19:28:09.665Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-30T19:28:09.665Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 10,
               "Title": "_Copyright.cshtml",
               "DocumentMoniker": "D:\\Workspace\\CSharp\\ASP.NET Core\\EcommerceMVC\\Views\\Shared\\_Copyright.cshtml",
               "RelativeDocumentMoniker": "Views\\Shared\\_Copyright.cshtml",
@@ -116,7 +146,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "_ValidationScriptsPartial.cshtml",
               "DocumentMoniker": "D:\\Workspace\\CSharp\\ASP.NET Core\\EcommerceMVC\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
               "RelativeDocumentMoniker": "Views\\Shared\\_ValidationScriptsPartial.cshtml",
@@ -128,7 +158,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 11,
               "Title": "CustomerController.cs",
               "DocumentMoniker": "D:\\Workspace\\CSharp\\ASP.NET Core\\EcommerceMVC\\Controllers\\CustomerController.cs",
               "RelativeDocumentMoniker": "Controllers\\CustomerController.cs",
@@ -140,32 +170,31 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 3,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\Workspace\\CSharp\\ASP.NET Core\\EcommerceMVC\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "D:\\Workspace\\CSharp\\ASP.NET Core\\EcommerceMVC\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AQIAABAAAAAAAAAAAAAQwBYAAAA+AAAA",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAiwCoAAAAuAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-28T19:06:00.077Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 4,
               "Title": "CartController.cs",
               "DocumentMoniker": "D:\\Workspace\\CSharp\\ASP.NET Core\\EcommerceMVC\\Controllers\\CartController.cs",
               "RelativeDocumentMoniker": "Controllers\\CartController.cs",
               "ToolTip": "D:\\Workspace\\CSharp\\ASP.NET Core\\EcommerceMVC\\Controllers\\CartController.cs",
               "RelativeToolTip": "Controllers\\CartController.cs",
-              "ViewState": "AQIAAGkAAAAAAAAAAAAYwIYAAAACAAAA",
+              "ViewState": "AQIAAEQAAAAAAAAAAAAswEoAAAA7AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-28T18:49:47.608Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-28T18:49:47.608Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 9,
               "Title": "_TimKiemPanel.cshtml",
               "DocumentMoniker": "D:\\Workspace\\CSharp\\ASP.NET Core\\EcommerceMVC\\Views\\Shared\\_TimKiemPanel.cshtml",
               "RelativeDocumentMoniker": "Views\\Shared\\_TimKiemPanel.cshtml",
@@ -177,7 +206,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 8,
               "Title": "_LayoutCustomer.cshtml",
               "DocumentMoniker": "D:\\Workspace\\CSharp\\ASP.NET Core\\EcommerceMVC\\Views\\Shared\\_LayoutCustomer.cshtml",
               "RelativeDocumentMoniker": "Views\\Shared\\_LayoutCustomer.cshtml",
@@ -185,24 +214,24 @@
               "RelativeToolTip": "Views\\Shared\\_LayoutCustomer.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAH8AAAAuAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-05-28T18:45:25.872Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-28T18:45:25.872Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 0,
               "Title": "Checkout.cshtml",
               "DocumentMoniker": "D:\\Workspace\\CSharp\\ASP.NET Core\\EcommerceMVC\\Views\\Cart\\Checkout.cshtml",
               "RelativeDocumentMoniker": "Views\\Cart\\Checkout.cshtml",
               "ToolTip": "D:\\Workspace\\CSharp\\ASP.NET Core\\EcommerceMVC\\Views\\Cart\\Checkout.cshtml",
               "RelativeToolTip": "Views\\Cart\\Checkout.cshtml",
-              "ViewState": "AQIAAKcAAAAAAAAAAAAowKgAAAAVAAAA",
+              "ViewState": "AQIAALQAAAAAAAAAAAAmwM0AAAA5AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-05-28T18:45:15.155Z"
+              "WhenOpened": "2025-05-28T18:45:15.155Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 13,
               "Title": "Index.cshtml",
               "DocumentMoniker": "D:\\Workspace\\CSharp\\ASP.NET Core\\EcommerceMVC\\Views\\HangHoa\\Index.cshtml",
               "RelativeDocumentMoniker": "Views\\HangHoa\\Index.cshtml",
@@ -214,7 +243,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 14,
               "Title": "Search.cshtml",
               "DocumentMoniker": "D:\\Workspace\\CSharp\\ASP.NET Core\\EcommerceMVC\\Views\\HangHoa\\Search.cshtml",
               "RelativeDocumentMoniker": "Views\\HangHoa\\Search.cshtml",
@@ -226,7 +255,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 15,
               "Title": "Index.cshtml",
               "DocumentMoniker": "D:\\Workspace\\CSharp\\ASP.NET Core\\EcommerceMVC\\Views\\Home\\Index.cshtml",
               "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
@@ -238,7 +267,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 16,
               "Title": "Default.cshtml",
               "DocumentMoniker": "D:\\Workspace\\CSharp\\ASP.NET Core\\EcommerceMVC\\Views\\Shared\\Components\\MenuLoai\\Default.cshtml",
               "RelativeDocumentMoniker": "Views\\Shared\\Components\\MenuLoai\\Default.cshtml",
@@ -250,7 +279,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 12,
               "Title": "_DanhSachHangHoa.cshtml",
               "DocumentMoniker": "D:\\Workspace\\CSharp\\ASP.NET Core\\EcommerceMVC\\Views\\Shared\\_DanhSachHangHoa.cshtml",
               "RelativeDocumentMoniker": "Views\\Shared\\_DanhSachHangHoa.cshtml",
@@ -262,7 +291,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 17,
               "Title": "_Footer.cshtml",
               "DocumentMoniker": "D:\\Workspace\\CSharp\\ASP.NET Core\\EcommerceMVC\\Views\\Shared\\_Footer.cshtml",
               "RelativeDocumentMoniker": "Views\\Shared\\_Footer.cshtml",
